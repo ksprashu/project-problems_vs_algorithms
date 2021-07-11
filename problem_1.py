@@ -42,6 +42,14 @@ print(sqrt(0))
 # 0
 print(sqrt(1))
 # 1
+print(sqrt(2))
+# 1
+
+# Test wrong cases
+print(sqrt(-1))
+# None
+print(sqrt(-100))
+# None
 
 # Test perfect squares
 print(sqrt(4))

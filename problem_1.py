@@ -1,6 +1,14 @@
 """Find the square root of the integer without using any Python library.
 
 Returns the floor value of the square root.
+
+Logic:
+Sum of first n odd numbers = n^2
+n=3: 1+3+5 = 9
+n=5: 1+3+5+7+9 = 25
+
+Let us iteratively add the odd numbers till the sum is >= the target
+The number of odd numbers we have added is the (floor of) sqrt
 """
 
 def sqrt(number):

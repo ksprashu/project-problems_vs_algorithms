@@ -23,3 +23,9 @@ $ python problem_1.py
 ```bash
 $ python problem_2.py
 ```
+
+3. Problem 3 - Find two numbers from array with largest sum
+```bash
+$ python problem_3.py
+```
+

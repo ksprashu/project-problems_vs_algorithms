@@ -32,6 +32,15 @@ def rotated_array_search(input_list, number):
 
 def sub_array_search(arr, target, beg, end):
     """Search between beg and end index.
+
+    Args:
+        arr: The array in which to search
+        target: The number to search for
+        beg: The index from which to start searching
+        end: The index upto which to search
+
+    Returns:
+        The index of the element if match is found, else -1
     """
 
     # base conditon

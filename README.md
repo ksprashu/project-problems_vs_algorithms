@@ -29,3 +29,8 @@ $ python problem_2.py
 $ python problem_3.py
 ```
 
+4. Problem 4 - Sort an array of only 0, 1, 2 as elements
+```bash
+$ python problem_4.py
+```
+

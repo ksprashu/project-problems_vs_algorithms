@@ -1,4 +1,4 @@
-"""Rearrange array elemnts.
+"""Rearrange array elements to form 2 number with the largest sum.
 
 Rearrange Array Elements so as to form two number such that their sum is 
 maximum. Return these two numbers. You can assume that all array elements 

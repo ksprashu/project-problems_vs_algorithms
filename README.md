@@ -34,3 +34,8 @@ $ python problem_3.py
 $ python problem_4.py
 ```
 
+6. Problem 6 - Find min, max of an array of integers
+```bash
+$ python problem_6.py
+```
+

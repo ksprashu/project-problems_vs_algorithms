@@ -34,16 +34,21 @@ $ python problem_3.py
 $ python problem_4.py
 ```
 
-5. Problem 5 - Sort an array of only 0, 1, 2 as elements
-```bash
-$ python problem_4.py
-```
-
-6. Problem 6 - Autocomplete using Tries\
+5. Problem 5 - Autocomplete using Tries\
 This is implemented as a Jupyter Notebook.
 ```bash
 $ jupyter notebook
 ```
 
+6. Problem 6 - Get the min, max from a list of integers
+```bash
+$ python problem_6.py
+```
+```
 Jupyter -> Open `problem_5.ipynb`
+```
 
+7. Problem 7 - Build a Router using Tries
+```bash
+$ python problem_4.py
+```
